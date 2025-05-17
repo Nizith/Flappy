@@ -1,2 +1,3 @@
 # SpringBootDemo
-test app for springboot
+
+#A social media app
