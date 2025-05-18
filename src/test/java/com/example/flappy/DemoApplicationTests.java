@@ -1,4 +1,4 @@
-package com.example.springbootdemo;
+package com.example.flappy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
